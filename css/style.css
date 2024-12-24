@@ -10,12 +10,12 @@
 
 @font-face {
   font-family: 'totoro';
-  src: url(../font/all.ttf);
+  src: url(../font/all.woff2);
 }
 
 @font-face {
   font-family: 'footer';
-  src: url(../font/footer.ttf);
+  src: url(../font/footer.woff2);
 }
 
 a:hover {
